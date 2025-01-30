@@ -6,3 +6,8 @@ Mobile_net model , Vgg 19 model ,Vgg 16 model and Sequential model deep learning
 Model training 
 Validation 
 Evaluation using accuracy metrics.
+**Models accuracy**
+Mobile_net_model = 0.9803
+Vgg_19_model = 0.9666
+Vgg_16_model = 0.9609
+Sequential_model = 0.9609
